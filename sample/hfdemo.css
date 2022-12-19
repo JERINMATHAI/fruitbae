@@ -1,0 +1,29 @@
+.main_div
+{
+    height: 500px;
+    width: 100%;
+    background-color: gray;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background-color:lightskyblue;
+}
+.left_sec{
+    height: 300px;
+    width: 20%;
+    background-color: aqua;
+    float: left;
+}
+.right_sec{
+    height: 300px;
+    width: 80%;
+    background-color: cornflowerblue;
+    float: left;
+}
+.footer{
+    height:100px ;
+    width: 100%;
+    background-color: lightseagreen;
+    float: left;
+}

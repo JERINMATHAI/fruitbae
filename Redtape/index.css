@@ -1,0 +1,200 @@
+body{
+    margin: 0;
+}
+
+.head-space1{
+    
+    background: transparent;
+    width: 100%;
+    height: 69px;
+    position: absolute;
+    margin-top: -501px;
+}
+
+.redtape-logo{
+    background-color:transparent;
+    margin-left: 204px;
+    margin-top: 21px;
+    display: inline-block;
+    float: left;
+}
+
+.head-search{
+    background-color: transparent;
+    height: 60px;
+    width: 33%;
+    margin-left: 700px;
+    display: flex;
+}
+
+#search{
+    background-color: transparent;
+    margin-right: 334px;
+    height: 30px;
+    padding: 0 5px;
+    width: 250px;
+    position: absolute;
+    right: 0;
+    border: none;
+    margin-top: 15px;
+    border-bottom: 1px solid #afafaf;
+}
+
+.search-btn{
+    background: transparent url(https://redtape.com/catalog/view/theme/default/image/sprite.png) no-repeat scroll -528px -5px;
+    border: medium none;
+    padding: 18px;
+    position: absolute;
+    right: 0;
+    top: 10px;
+    margin-right: 337px;
+}
+
+.country-form{
+    background-color: transparent;
+    height: 61px;
+    width: 13%;
+    margin-top: -61px;
+    margin-left: 1207px;
+}
+
+.head-space2{
+    background-color:transparent;
+    width: 100%;
+    height: 79px;
+    position: absolute;
+}
+
+.element-wrap{
+    background-color: transparent;
+    padding: 30px 0px;
+    margin-top: -427px;
+    margin-left: 204px;
+    font-size: 18px;
+    width: 40%;
+    
+}
+.elements{
+    color:white;
+    float:left;
+    margin-right: 27px;
+    
+}
+
+.login-wrap{
+    background-color: transparent;
+    padding: 30px 0px;
+    margin-left: 1041px;
+    margin-top: -60px;    
+    font-size: 18px;
+    width: 38%;
+}
+
+.header-login{
+    float:left;
+    margin-right: 27px;
+    color: #fff;
+    font-size: 17px;
+}
+
+.video{    
+   height: 500px;
+    position: relative;
+}
+
+
+
+.best-sellers{
+    margin-top: 500PX;
+    margin-left: -150px;
+
+}
+
+.best-sellers h2{
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 300;
+    margin-top: 20px;
+    background-color: #fff;
+    margin-top: -27px;
+    margin-left: 791px;
+}
+
+.best-img-container{
+    margin-left: 364px;
+    margin-bottom: 10px;
+}
+
+.best-img{
+    float: left;
+    margin-top: 10px;
+    width: 26%;
+    margin-left: 30px;
+}
+
+.best-img h4{
+    font-size: 16px;
+    margin-bottom: -17px;
+    margin-left: 18px;
+}
+
+.best-img p{
+    margin-top: -35px;
+    margin-left: 104px;
+    font-size: 13px;
+    text-decoration: line-through;
+}
+
+.best-img h1{
+    color: red;
+    margin-top: -32px;
+    margin-left: 158px;
+    font-size: 18px;
+}
+
+.best-img h3{
+    margin-left: 18px;
+}
+
+.trending h2{
+        font-size: 40px;
+        margin-bottom: 66px;
+        font-weight: 300;
+        margin-top: 20px;
+        background-color: #fff;
+        
+}
+
+.trend-img{
+   width: 610px;
+   height: 418px; 
+}
+
+.trending{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 675px;
+    margin-left: 744px;
+    }
+
+.trend-container{
+  display: flex;
+  justify-content: space-between;
+  max-width: 800px;
+  width: 100%;
+}
+
+.one{
+    background-image: url(https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/trending/Accessories-640x480.jpg);
+}
+
+.two{
+    background-image: url(https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/trending/Men-640x480.jpg);
+}
+
+.three{
+    background-image: url(https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/trending/Women-640x480.jpg);
+}
+
+
